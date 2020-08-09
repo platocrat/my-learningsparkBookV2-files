@@ -1,0 +1,5 @@
+# Metals config and logs
+.metals/
+
+# git
+.git

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/platocrat/Documents/Apache Spark/spark-3.0.0-bin-hadoop2.7/my-learningspark-files/chapter2/foo-build/core/src/main/scala/example/core/Weather.scala:4:28: not found: object duation[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.concurrent._, duation._[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

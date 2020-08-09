@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/platocrat/Documents/Apache Spark/spark-3.0.0-bin-hadoop2.7/my-learningspark-files/chapter2/foo-build/target/scala-2.13/hello_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/platocrat/Documents/Apache Spark/spark-3.0.0-bin-hadoop2.7/my-learningspark-files/chapter2/foo-build/target/scala-2.13/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/platocrat/Documents/Apache Spark/spark-3.0.0-bin-hadoop2.7/my-learningspark-files/chapter2/foo-build/target/scala-2.13/classes/example/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/platocrat/Documents/Apache Spark/spark-3.0.0-bin-hadoop2.7/my-learningspark-files/chapter2/foo-build/target/scala-2.13/classes/example/Hello$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/platocrat/Documents/Apache Spark/spark-3.0.0-bin-hadoop2.7/my-learningspark-files/chapter2/foo-build/target/scala-2.13/classes/example/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

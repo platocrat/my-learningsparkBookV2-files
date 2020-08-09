@@ -1,0 +1,29 @@
+compile
+exit
+~compile
+help run
+help
+run
+set ThisBuild / scalaVersion := "2.13.3"
+scalaVersion
+session save
+reload
+test
+~testQuick
+reload
+console
+reload
+projects
+helloCore/compile
+reload
+~testQuick
+run
+reload
+run
+exit
+run
+last Compile / bgRun
+last Compile
+last Compile / bgRun
+run
+exit

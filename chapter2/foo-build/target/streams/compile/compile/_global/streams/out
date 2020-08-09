@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/platocrat/Documents/Apache Spark/spark-3.0.0-bin-hadoop2.7/my-learningspark-files/chapter2/foo-build/src/main/scala/example/Hello.scala:4:8: not found: object core[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.Weather[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/platocrat/Documents/Apache Spark/spark-3.0.0-bin-hadoop2.7/my-learningspark-files/chapter2/foo-build/src/main/scala/example/Hello.scala:7:24: not found: value Weather[0m
+[0m[[0m[31merror[0m] [0m[0m  val w = Await.result(Weather.weather, 10.seconds)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/platocrat/Documents/Apache Spark/spark-3.0.0-bin-hadoop2.7/my-learningspark-files/chapter2/foo-build/src/main/scala/example/Hello.scala:9:3: not found: value Weather[0m
+[0m[[0m[31merror[0m] [0m[0m  Weather.http.close()[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
